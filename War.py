@@ -1,3 +1,6 @@
+# Ben Jordan
+# 12/9/2020
+
 from random import shuffle
 # Only used to associate values
 valuesdict = {'Two' : 2, 'Three' : 3, 'Four' : 4, 'Five' : 5, 'Six': 6,
