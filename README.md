@@ -1,5 +1,6 @@
 # War-Card-Game
-Simulated computer vs computer game of war in python
+Simulated computer vs computer game of war in python.
+This project introduced me to the idea of object oriented programming. 
 
 ## HOW TO USE
  - Download the python file attached
